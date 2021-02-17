@@ -1,0 +1,10 @@
+E:\Allahverdiyeva B\Market\Market\bin\Debug\Market.exe.config
+E:\Allahverdiyeva B\Market\Market\bin\Debug\Market.exe
+E:\Allahverdiyeva B\Market\Market\bin\Debug\Market.pdb
+E:\Allahverdiyeva B\Market\Market\obj\Debug\Market.csprojAssemblyReference.cache
+E:\Allahverdiyeva B\Market\Market\obj\Debug\Market.Form1.resources
+E:\Allahverdiyeva B\Market\Market\obj\Debug\Market.Properties.Resources.resources
+E:\Allahverdiyeva B\Market\Market\obj\Debug\Market.csproj.GenerateResource.cache
+E:\Allahverdiyeva B\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
+E:\Allahverdiyeva B\Market\Market\obj\Debug\Market.exe
+E:\Allahverdiyeva B\Market\Market\obj\Debug\Market.pdb
